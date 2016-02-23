@@ -1,10 +1,7 @@
 /*!
  *
  *
- *   Resurrection Remix Website
- *
- *   Copyright (C) 2013 Inbetwin Network
- *   Copyright (C) 2014 Shubhang Rathore
+
  *
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
@@ -28,7 +25,7 @@ CONTENTS:
 01 Sensible defaults
 02 Typography
 03 Non-semantic
-04 Navbar
+04 Navbar#64B5F6
 05 Single-Page Sections
 06 Footer
 07 Bootstrap Carousel
@@ -58,11 +55,11 @@ body {
 	font-family: 'Quattrocento', serif;
 }
 ::-moz-selection {
-background:#f0bf00;
+background:#64B5F6;
 color:#333;
 }
 ::selection {
-background:#f0bf00;
+background:#64B5F6;
 color:#333;
 }
 /*---------- FORMS ----------*/
@@ -176,11 +173,11 @@ em {
 	font-family: 'Patua One', cursive;
 }
 .more-link:link, .more-link:visited {
-	color: #f0bf00;
+	color: #64B5F6;
 	text-transform: uppercase;
 }
 .github-source-link:link, .github-source-link:visited {
-	color: #f0bf00;
+	color: #64B5F6;
 }
 .features-link:link, .features-link:visited {
 	color: #ff0055;
@@ -233,7 +230,7 @@ em {
 }
 .navbar .brand a:hover {
 	text-decoration: none;
-	color:#f0bf00;
+	color:#64B5F6;
  transition: color .15s linear;
  -webkit-transition: color .15s linear;
  -moz-transition: color .15s linear;
@@ -248,7 +245,7 @@ em {
 	background-repeat: repeat;
 	background-color: #333333;
 	/* 0b333f */
-	border-color: #f0bf00;
+	border-color: #64B5F6;
 }
 .navbar-wrapper {
 	overflow:hidden;
@@ -264,7 +261,7 @@ ul#menu-main > li > a {
 	color: #fff;
 }
 ul#menu-main > li > a:hover {
-	background: #f0bf00;
+	background: #64B5F6;
 	padding: 9px 15px;
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -340,7 +337,7 @@ ul#menu-main > li > a:hover {
 	margin: 0;
 	border: 0;
 	text-transform: none;
-	background: #f0bf00 !important;
+	background: #64B5F6 !important;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -478,7 +475,7 @@ section#features .align .sev_icon {
 	text-align:center;
 	margin:10px 0 20px 0;
 	font-size: 0.6em;
-	color:#F0BF00;
+	color:#64B5F6;
 }
 section#features .span3 {
 	background:#e9e9e9;
@@ -575,7 +572,7 @@ article .inside {
 
 section#team, section#credits {
 	color: #e4e5e2;
-	background:#F44336;
+	background:#312A1E;
 }
 section#team .align, section#credits .align {
 	font-size: 6em;
@@ -671,7 +668,7 @@ section#credits h2.featurette-heading {
 	display: block;
 	border: 0;
 	text-transform: none;
-	background: #f0bf00 !important;
+	background: #64B5F6 !important;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
@@ -820,7 +817,7 @@ footer p {
 	display: block;
 	border: 0;
 	text-transform: none;
-	background: #f0bf00 !important;
+	background: #64B5F6 !important;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
